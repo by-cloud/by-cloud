@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=by-cloud&show_icons=true" />
 
 Here are some ideas to get you started:
 
@@ -11,8 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-[![Claude's github stats](https://github-readme-stats.vercel.app/api?username=by-cloud&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
