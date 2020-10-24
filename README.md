@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-cloud&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-cloud" />
 
 <!-- steam-box start -->
 <table>
