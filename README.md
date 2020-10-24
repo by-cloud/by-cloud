@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- steam-box start -->
 <table>
-<td valign="top" width="50%">
+<td valign="left" width="50%">
   
 #### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
  
