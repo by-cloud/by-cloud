@@ -10,10 +10,24 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-cloud&layout=compact" />
 
 <!-- steam-box start -->
+<table>
+<td valign="top" width="50%">
+  
+#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
+ 
+```text
+🎮 Monster Hunter: World            🕘 132 hrs 38 mins
+💻 Wallpaper Engine                 🕘 89 hrs 4 mins
+🎮 Muv-Luv                          🕘 43 hrs 55 mins
+🌏 Sid Meier's Civilization V       🕘 25 hrs 56 mins
+🎮 Chinese Parents                  🕘 16 hrs 29 mins
+```
+
+[powered by steam-box](https://github.com/YouEclipse/steam-box)
+</td>
+</table>
 <!-- steam-box end -->
