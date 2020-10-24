@@ -2,12 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=by-cloud&show_icons=true" />
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on `cs61a`, `analysis`
 - 🌱 I’m currently learning `Math`and `CS`
-- 👯 I’m looking to collaborate on `learning French`
-- 🤔 I’m looking for help with `learning Math and French`
+- 👯 I’m looking to collaborate on `French`
+- 🤔 I’m looking for help with `learning Math & French`
 - 💬 Ask me about anything
 - 📫 How to reach me: [e-mail](claude.by.cloud@gmail.com)
 
