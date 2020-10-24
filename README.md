@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=by-cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- steam-box start -->
+<script src="https://gist.github.com/by-cloud/c273adab7aadea9bdb32fa2ea33b1e30.js"></script>
 <!-- steam-box end -->
