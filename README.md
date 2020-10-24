@@ -2,6 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=by-cloud&show_icons=true" />
 
+I'm **Claude**, an undergrad in Math and CS.
 - 🔭 I’m currently working on `cs61a`, `analysis`
 - 🌱 I’m currently learning `Math`and `CS`
 - 👯 I’m looking to collaborate on `French`
